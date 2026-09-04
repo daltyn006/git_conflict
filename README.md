@@ -1,2 +1,3 @@
 # status 
-just getting started
+editing file for merge conflict
+learning git and feeling "smart"
